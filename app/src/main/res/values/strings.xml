@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Listview</string>
+
+    <string-array name="abbreviations">
+
+        <item>ASAP\nAs soon as possible</item>
+        <item>AWOL</item>
+        <item>BRB</item>
+        <item>DIY</item>
+        <item>EOBD</item>
+        <item>EOD</item>
+        <item>ETA</item>
+        <item>FAQ</item>
+        <item>FBI</item>
+        <item>FYI</item>
+        <item>HR</item>
+        <item>IDK</item>
+        <item>IIRC</item>
+        <item>ILY</item>
+        <item>IMO</item>
+        <item>IRL</item>
+        <item>LOL</item>
+        <item>MBA</item>
+        <item>MIA</item>
+        <item>NASA</item>
+        <item>NSFW</item>
+        <item>NVM</item>
+        <item>OMG</item>
+        <item>OMW</item>
+        <item>POS</item>
+        <item>POV</item>
+        <item>SWAT</item>
+        <item>TBA</item>
+        <item>TGIF</item>
+        <item>TMI</item>
+        <item>TTYL</item>
+        <item>TYVM</item>
+
+    </string-array>
+
+</resources>
